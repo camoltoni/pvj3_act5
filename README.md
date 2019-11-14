@@ -1,18 +1,17 @@
 # Actividad 5
 Actividad 5 de programación de videojuegos 3, de la carrera Tecnicatura en diseño y programación de videojuegos de la Universidad Nacional del Litoral - Argentina
 
-## Escarbando números
-Es un juego dídactico con el fin de reforzar el reconocimiento de números y mejorar la agilidad de los jugadores en operaciones de suma y resta de los números del 0 al 10. También se busca poner en consideración temas ecológicos y el reciclado.
+## Escaleras triquiñosas
+Es un juego dídactico con el fin de reforzar el reconocimiento de números y mejorar la agilidad de los jugadores en operaciones de suma y resta de los números del 0 al 10. También se pretende estimular la imaginación de los participantes y la inmersión en un mundo fantástico.
 
 ## Descripción
-Cada nivel tiene una máquina que se pone en marcha reciclando basura. El nivel consta de plataformas que el jugador explorará y recogerá cajas que tienen un número, puede recoger un par de números y elegir de la interfaz que operación hacer, suma o resta, el resultado será la carga del rayo con el que el jugador convertirá la basura en el material que usa de combustible para alimentar la máquina. 
-La basura en el nivel se presentará mediante distintos objetos y tendrá también un número. Con el rayo cargado se puede eliminar el objeto que tenga el mismo número que la carga del rayo. Al eliminar el objeto el valor que tenía aparecerá en una casilla al lado de la máquina esas casilla también estarán de a pares y sumadas o restadas tienen que dar como resultado cada fila el número que es el que identifica cada nivel, a medida que avance el jugador tendrá que resolver más cuentas. Una vez que todas operaciones de las casilla de la máquina se resuelvan pasará de nivel.
+Los niveles se generan automáticamente, consisten de cuadrados que se configuran como una escalera con tramos de subida y bajada, el tamaño de los escalones es irregular. El personaje siempre está avanzando o intentando avanzar, el jugador debe organizar una serie de números en la parte inferior que indican cuanto debe saltar o dejarse caer para llegar al escalón siguiente, entre los números hay un signo más o menos, para saltar o caer respectivamente y en cada escalón estará el resultado de la suma o resta necesaria que debe resolver el jugador. Si coloca el número equivocado el personaje se demora por un salto mayor al necesario o por un golpe al caer.
 ## Características especiales
-El movimiento por las plataformas será por zonas, los movimientos requerirán de una acción aproximada, no se trata de buscar desafiar la habilidad del jugador sino que piense que números debe obtener para resolver las operaciones para cargar el rayo, eliminar la basura y finalmente hacer andar la máquina que termina cada nivel.
+Habrá obreros que aumenten o disminuyan la altura de los escalones. Bombas que si explotan envían al personaje hacia atrás, y criaturas que debe esquivar.
 ## Género
-Plataformas, acertijos, didáctico.
+Corredor infinito, acertijos, didáctico, matemáticas.
 ## Plataforma
 Internet y móviles.
 ## Gráficos
-Estilo pixel art que se adapta bien a superficies de dibujo pequeñas como pantallas de móviles o los tamaños de canvas de los sitios de alojamiento público de videojuegos.
+Estilo pixel art 2d, que se adapta bien a superficies de dibujo pequeñas como pantallas de móviles o los tamaños de canvas de los sitios de alojamiento público de videojuegos.
 
